@@ -8,3 +8,17 @@
     8  ls
     9  git init
    10  history > cmds.log
+   11  history
+   12  pwd
+   13  ls -a
+   14  git status
+   15  git add cmds.log 
+   16  git status
+   17  git commit -m "Committing my history"
+   18  git config --global user.email "jihan.yehia@sjsu.edu"
+   19  git config --global user.name  "Jihan Yehia"
+   20  git commit -m "Committing my history"
+   21  git status
+   22  git remote add origin https://github.com/jihanyehia/worksheet1.git
+   23  git push -u origin master
+   24  history > cmds.log
